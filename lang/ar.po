@@ -1,0 +1,2962 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mytheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-25 00:02+0300\n"
+"PO-Revision-Date: 2016-02-25 00:02+0300\n"
+"Last-Translator: Ahmed Khalid <ahmed.khalid2200@gmail.com>\n"
+"Language-Team: Ahemd Khalid <ahmed.khalid2200@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions.php:23
+msgid "Navbar"
+msgstr "النافبار"
+
+#: ../functions.php:24
+msgid "social menu"
+msgstr "قائمة المواقع الإجتماعية"
+
+#: ../functions.php:73 ../functions.php:74
+msgid "slider"
+msgstr "السلايدر"
+
+#: ../functions.php:75
+msgid "Slider"
+msgstr "السلايد"
+
+#: ../functions.php:76
+msgid "Parent Slider:"
+msgstr "السلايد الرئيسي"
+
+#: ../functions.php:77
+msgid "All Sliders"
+msgstr "جميع السلايد"
+
+#: ../includes/custom_meta.php:6
+msgid "slider option"
+msgstr "خيارات السلايد"
+
+#: ../includes/custom_meta.php:11
+msgid "URL slider"
+msgstr "رابط السلايد"
+
+#: ../includes/custom_meta.php:16
+msgid "Target slider"
+msgstr "نوع الرابط"
+
+#: ../includes/custom_meta.php:20
+msgid "normal"
+msgstr "عادي"
+
+#: ../includes/custom_meta.php:21
+msgid "blank"
+msgstr "صفحة منفصلة"
+
+#: ../includes/custom_meta.php:29
+msgid "Arabic Thumbnail"
+msgstr "الصورة البارزة العربية"
+
+#: ../includes/custom_meta_contacts.php:6
+msgid "Page Option"
+msgstr "خيارات الصفحة"
+
+#: ../includes/custom_meta_contacts.php:12
+msgid "Show Map"
+msgstr "عرض الخريطة"
+
+#: ../includes/custom_meta_contacts.php:14
+msgid "on"
+msgstr "عرض"
+
+#: ../includes/custom_meta_contacts.php:15
+msgid "off"
+msgstr "اخفاء"
+
+# @ total
+#: ../includes/custom_meta_contacts.php:21
+msgid "Address"
+msgstr "العنوان"
+
+#: ../includes/custom_meta_contacts.php:23
+msgid "Riyadh Saudi Arabia"
+msgstr "السعودية الرياض"
+
+#: ../includes/custom_meta_contacts.php:27
+msgid "Location"
+msgstr "الموقع"
+
+#: ../includes/custom_meta_contacts.php:35
+msgid "Telephone"
+msgstr "الهاتف"
+
+#: ../includes/custom_meta_contacts.php:40
+msgid "Mobile 1"
+msgstr "رقم الجوال 1"
+
+#: ../includes/custom_meta_contacts.php:45
+msgid "Mobile2"
+msgstr "رقم الجوال 2"
+
+#: ../includes/custom_meta_contacts.php:50
+msgid "Site"
+msgstr "الموقع"
+
+#: ../includes/navmenu.php:46
+msgid "Custom Post Type Archives"
+msgstr "الأرشيف المخصص"
+
+# @ total
+#: ../includes/navmenu.php:57
+msgid "Archive"
+msgstr "الارشيف لـ "
+
+# @ total
+#: ../includes/navmenu.php:72
+msgid "Add to Menu"
+msgstr "اضفة للقائمة"
+
+#: ../meta/inc/common.php:48
+msgid "Documentation"
+msgstr "الوثائق"
+
+#: ../meta/inc/common.php:49
+msgid "Extensions"
+msgstr "الملحقات"
+
+# @ total
+#: ../meta/inc/field.php:250
+#, fuzzy
+msgid "+ Add more"
+msgstr "اضف المزيد من الملفات"
+
+# @ total
+#: ../meta/inc/fields/autocomplete.php:18
+#: ../meta/inc/fields/autocomplete.php:83
+#: ../meta/inc/fields/autocomplete.php:100 ../meta/inc/fields/file.php:168
+#: ../meta/inc/fields/image.php:136
+msgid "Delete"
+msgstr "حذف"
+
+#: ../meta/inc/fields/button.php:35
+msgid "Click me"
+msgstr "اضغطني"
+
+#: ../meta/inc/fields/checkbox.php:95
+msgid "Yes"
+msgstr "نعم"
+
+#: ../meta/inc/fields/checkbox.php:95
+msgid "No"
+msgstr "لا"
+
+# @ total
+#: ../meta/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr "اختر الملفات"
+
+# @ total
+#: ../meta/inc/fields/file-input.php:40 ../meta/inc/fields/select.php:211
+msgid "Select"
+msgstr "اختر الملفات"
+
+#: ../meta/inc/fields/file-input.php:42 ../meta/inc/fields/media.php:164
+msgid "Remove"
+msgstr "حذف"
+
+#: ../meta/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "تجاوزت العدد المسموح لرفع الملفات  %d ملف"
+
+#: ../meta/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "تجاوزت العدد المسموح لرفع الملفات  %d ملفات"
+
+# @ total
+#: ../meta/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr "خطأ: لا يمكن حذف الملف"
+
+# @ total
+#: ../meta/inc/fields/file.php:111
+msgid "Upload Files"
+msgstr "تحميل الملفات"
+
+# @ total
+#: ../meta/inc/fields/file.php:112
+msgid "+ Add new file"
+msgstr "اضافة ملف جديد"
+
+# @ total
+#: ../meta/inc/fields/file.php:169 ../meta/inc/fields/image.php:137
+#: ../meta/inc/fields/media.php:165
+msgid "Edit"
+msgstr "تعديل"
+
+# @ total
+#: ../meta/inc/fields/image-advanced.php:35 ../meta/inc/fields/media.php:163
+#, fuzzy
+msgid "+ Add Media"
+msgstr "اضافة صورة جديدة"
+
+# @ total
+#: ../meta/inc/fields/image.php:70 ../meta/inc/fields/thickbox-image.php:34
+msgid "Upload Images"
+msgstr "تحميل الصورة"
+
+# @ total
+#: ../meta/inc/fields/image.php:71
+msgid "+ Add new image"
+msgstr "اضافة صورة جديدة"
+
+# @ total
+#: ../meta/inc/fields/map.php:51
+msgid "Find Address"
+msgstr "بحث بالعنوان"
+
+#: ../meta/inc/fields/media.php:166
+msgid "View"
+msgstr "عرض"
+
+#: ../meta/inc/fields/media.php:167
+msgid " file"
+msgstr ""
+
+# @ total
+#: ../meta/inc/fields/media.php:168
+#, fuzzy
+msgid " files"
+msgstr "رفع الملف"
+
+#: ../meta/inc/fields/media.php:169
+#, fuzzy
+msgid "No Title"
+msgstr "العنوان"
+
+#: ../meta/inc/fields/oembed.php:62
+msgid "Embed HTML not available."
+msgstr "تضمين HTML غير متاح."
+
+#: ../meta/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr "معاينة"
+
+#: ../meta/inc/fields/plupload-image.php:105
+msgid "Drop images here"
+msgstr "افلت الصورة هنا"
+
+#: ../meta/inc/fields/plupload-image.php:106
+msgid "or"
+msgstr "او"
+
+# @ total
+#: ../meta/inc/fields/plupload-image.php:107
+msgid "Select Files"
+msgstr "اختر الملفات"
+
+# @ total
+#: ../meta/inc/fields/plupload-image.php:182
+msgid "Allowed Image Files"
+msgstr "ملفات الصور المسموحة"
+
+# @ total
+#: ../meta/inc/fields/post.php:67
+msgid "Select a post"
+msgstr "اختر المقال"
+
+# @ total
+#: ../meta/inc/fields/post.php:71 ../meta/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr "اختر %s"
+
+#: ../meta/inc/fields/select.php:211
+msgid "All"
+msgstr "الكل"
+
+#: ../meta/inc/fields/select.php:211
+msgid "None"
+msgstr ""
+
+# @ total
+#: ../meta/inc/fields/user.php:49
+msgid "Select an user"
+msgstr "اختر من الأعضاء"
+
+# @ total
+#: ../meta/inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr "الرجاء تصحيح الأخطاء المبينة أدناه وحاول مرة أخرى."
+
+#~ msgid ""
+#~ "Thank you, the message has been sent successfully, you will be answered "
+#~ "as soon as possible"
+#~ msgstr "شكرا لك , تم ارسال الرسالة بنجاح سيتم الرد عليك في اقرب وقت ممكن"
+
+#~ msgid "An error in the verification code, try again"
+#~ msgstr "خطأ في كود التحقق ,, حاول مجددا"
+
+#~ msgid "Name"
+#~ msgstr "الإسم"
+
+#~ msgid "Please type your full name"
+#~ msgstr "الرجاء كتابة اسمك الكامل"
+
+#~ msgid "Mobile"
+#~ msgstr "رقم الجوال"
+
+#~ msgid "Please type your Mobile"
+#~ msgstr "الرجاء كتابة رقم جوالك"
+
+#~ msgid "Email"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "Please type your e-mail correctly"
+#~ msgstr "الرجاء كتابة بريديك الإلكتروني بصورة صحيحة"
+
+#~ msgid "Message"
+#~ msgstr "نص الرسالة"
+
+#~ msgid "Please type your message"
+#~ msgstr "الرجاء كتابة رسالتك"
+
+#~ msgid "Send"
+#~ msgstr "أرسـل"
+
+#~ msgid "contac us"
+#~ msgstr "اتصل بنا"
+
+#~ msgid "Incoming correspondence"
+#~ msgstr "المراسلات الواردة"
+
+#~ msgid "Settings"
+#~ msgstr "إعدادات"
+
+#~ msgid "Settings Contact Us"
+#~ msgstr "إعدادات اتصل بنا"
+
+#~ msgid "Send a copy"
+#~ msgstr "ارسال نسخة"
+
+#~ msgid "Send e-mail a copy of the correspondence"
+#~ msgstr "أرسل للبريد الالكتروني نسخة من المراسلات"
+
+#~ msgid "Address of the incoming message"
+#~ msgstr "عنوان الرسالة الواردة"
+
+#~ msgid "You can add an e-mail to one or more alert and up a copy of messages"
+#~ msgstr "يمكنك اضافة بريد الكتروني 1 أو أكثر ليصل تنبيه ونسخة من الرسائل"
+
+#~ msgid "Email 1"
+#~ msgstr "البريد الإلكتروني 1"
+
+#~ msgid "Email 2"
+#~ msgstr "البريد الإلكتروني 2"
+
+#~ msgid "Email 3"
+#~ msgstr "البريد الإلكتروني 3"
+
+#~ msgid "Save Settings"
+#~ msgstr "إعدادات"
+
+#~ msgid "Deleted successfully"
+#~ msgstr "تم الحذف بنجاح"
+
+#~ msgid "Modified successfully"
+#~ msgstr "تم التغيير بنجاح"
+
+#~ msgid "Normal"
+#~ msgstr "عادي"
+
+#~ msgid "special"
+#~ msgstr "خاص"
+
+#~ msgid "Contact us"
+#~ msgstr "اتصل بنا"
+
+# @ total
+#~ msgid "New"
+#~ msgstr "جديد"
+
+#~ msgid "Search"
+#~ msgstr "بحث"
+
+#~ msgid "Execute the command"
+#~ msgstr "تنفيذ الأمر"
+
+#~ msgid "Change to the (normal)"
+#~ msgstr "تغيير إلى (عادي)"
+
+#~ msgid "Change to (special)"
+#~ msgstr "تغيير إلى (مميز)"
+
+#~ msgid "Apply"
+#~ msgstr "تطبيق"
+
+#~ msgid "Are you sure you want to delete?"
+#~ msgstr "هل أنت متأكد من الحذف؟"
+
+#~ msgid "Delete Selected"
+#~ msgstr "حذف المحدد"
+
+#~ msgid "Export to Excel"
+#~ msgstr "تصدير إلى اكسل"
+
+#~ msgid "Items"
+#~ msgstr "عناصر"
+
+# @ total
+#~ msgid "Select all"
+#~ msgstr "أختيار  الكل"
+
+#~ msgid "Part of the message"
+#~ msgstr "جزء من الرسالة"
+
+#~ msgid "History"
+#~ msgstr "التاريخ"
+
+#~ msgid "Move this item to the trash"
+#~ msgstr "نقل إلى سلة المهملات"
+
+#~ msgid "The trash"
+#~ msgstr "سلة المهملات"
+
+#~ msgid "Contact Us - View the request"
+#~ msgstr "اتصل بنا - مشاهدة الطلب"
+
+#~ msgid "state"
+#~ msgstr "الحالة"
+
+#~ msgid "Message number"
+#~ msgstr "رقم الرسالة"
+
+#~ msgid "Back"
+#~ msgstr "عودة"
+
+#~ msgid "Print"
+#~ msgstr "طباعة"
+
+#~ msgid "Delete a Message"
+#~ msgstr "حذف  الرسالة"
+
+#~ msgid "Date send"
+#~ msgstr "تاريخ الإرسال"
+
+#~ msgid "Messaeg"
+#~ msgstr "نص الرسالة"
+
+#~ msgid "Notes"
+#~ msgstr "ملاحظات"
+
+# @ total
+#~ msgid "Add Note"
+#~ msgstr "اضف ملاحظة"
+
+#~ msgid "Products"
+#~ msgstr "المنتجات"
+
+#~ msgid "Home"
+#~ msgstr "الرئيسية"
+
+#~ msgid "Copyright  <span>%s</span> All Rights Reserved "
+#~ msgstr "جميع الحقوق محفوظة لـ <span>%s</span>"
+
+#~ msgid "Navbar arabic"
+#~ msgstr "النافبار - عربي"
+
+#~ msgid "Product"
+#~ msgstr "المنتجات"
+
+#~ msgid "Product option"
+#~ msgstr "خيارات المنتج"
+
+#~ msgid "Gallery"
+#~ msgstr "معرض الصور"
+
+#~ msgid "Thumbnail"
+#~ msgstr "الصورة البارزة"
+
+# @ total
+#, fuzzy
+#~ msgid "Select Image"
+#~ msgstr "اختر  الصورة"
+
+#~ msgid "<span>Our</span> Products"
+#~ msgstr "منتجاتنا"
+
+#~ msgid "See Details"
+#~ msgstr "عرض التفاصيل"
+
+#~ msgid "View All"
+#~ msgstr "عرض الكل"
+
+#~ msgid "info <span>Contact</span>"
+#~ msgstr "معلومات <span>الاتصال</span>"
+
+#~ msgid "Contact <span>Us</span>"
+#~ msgstr "تواصل <span>معنا</span>"
+
+#~ msgid "Companies"
+#~ msgstr "الشركات"
+
+#~ msgid "Projects"
+#~ msgstr "المشاريع"
+
+#~ msgid "Project"
+#~ msgstr "المشاريع"
+
+#~ msgid "Company option"
+#~ msgstr "خيارات الشركة"
+
+#~ msgid "URL"
+#~ msgstr "الرابط"
+
+#~ msgid "Company"
+#~ msgstr "الشركة"
+
+#~ msgid "Our branches"
+#~ msgstr "فروعنا"
+
+#~ msgid "View All Branches"
+#~ msgstr "عرض كل الفروع"
+
+#~ msgid "Brands"
+#~ msgstr "الماركات"
+
+#~ msgid "Read More"
+#~ msgstr "اقرأ المزيد"
+
+#~ msgid "Latest offers"
+#~ msgstr "أحدث العروض"
+
+#~ msgid "Riyals"
+#~ msgstr "ريال"
+
+#~ msgid "&copy; Copyright  %s %d"
+#~ msgstr "‏&copy; جميع الحقوق محفوظة  %s %d"
+
+#~ msgid "Parent Brand:"
+#~ msgstr "الماركة الرئيسي:"
+
+#~ msgid "All Brands"
+#~ msgstr "كل الماركات"
+
+#~ msgid "View Brand"
+#~ msgstr "عرض الماركة"
+
+#~ msgid "Branches"
+#~ msgstr "الفروع"
+
+#~ msgid "Branch"
+#~ msgstr "الفروع"
+
+#~ msgid "Parent:"
+#~ msgstr "الرئيسي :"
+
+#~ msgid "City"
+#~ msgstr "المدينة"
+
+#~ msgid "Search City"
+#~ msgstr "بحث في المدن"
+
+#~ msgid "All City"
+#~ msgstr "كل المدن"
+
+#~ msgid "Edit City"
+#~ msgstr "تعديل المدينة"
+
+#~ msgid "Update City"
+#~ msgstr "تحديث المدينة"
+
+# @ total
+#~ msgid "Add New City"
+#~ msgstr "اضافة مدينة جديدة"
+
+#~ msgid "New City Name"
+#~ msgstr "اسم المدينة الجديد"
+
+#~ msgid "Separate Cities with commas"
+#~ msgstr "افضل بين المدن بفاصلة"
+
+#~ msgid "Add or remove City"
+#~ msgstr "اضافة أو إزالة المدن"
+
+#~ msgid "Choose from the most used City"
+#~ msgstr "اختر من المدن الأكثر استخداماً"
+
+#~ msgid "No City found."
+#~ msgstr "لم يتم العثور على المدن"
+
+#~ msgid "Offers"
+#~ msgstr "العروض"
+
+#~ msgid "Offer"
+#~ msgstr "العرض"
+
+#~ msgid "Main Menu"
+#~ msgstr "القائمة الرئيسية"
+
+#~ msgid "Brand option"
+#~ msgstr "خيارات الماركة"
+
+#~ msgid "Show in Home"
+#~ msgstr "عرض في الرئيسية"
+
+#~ msgid "Albume Option"
+#~ msgstr "خيارات معرض الصور"
+
+#~ msgid "Branch Option"
+#~ msgstr "خيارات الفرع"
+
+#~ msgid "Phone"
+#~ msgstr "الهاتف"
+
+#~ msgid "Work Time"
+#~ msgstr "وقت الدوام"
+
+#~ msgid "Photos Branch"
+#~ msgstr "صور الفرع"
+
+#~ msgid "Location on map"
+#~ msgstr "الموقع على الخريطة"
+
+#~ msgid "New Price"
+#~ msgstr "السعر الجديد"
+
+#~ msgid "Old Price"
+#~ msgstr "السعر القديم"
+
+#~ msgid "Latest Products"
+#~ msgstr "أحدث المنتجات"
+
+#~ msgid "More"
+#~ msgstr "المزيد"
+
+#~ msgid "Newsletter Subscription"
+#~ msgstr "الاشتراك بالنشرة البريدية"
+
+#~ msgid "Write your email here"
+#~ msgstr "أكتب بريدك الإلكتروني هنا"
+
+# @ total
+#~ msgid "Write e-mail"
+#~ msgstr "اكتب بريدك الإلكتروني"
+
+#~ msgid "Write your e-mail correctly"
+#~ msgstr "اكتب بريديك الإلكتروني بصورة صحيحة"
+
+#~ msgid "Will be added Please wait .."
+#~ msgstr "الرجاء الإنتظار ..."
+
+#~ msgid "Email has been added successfully ..Thank you"
+#~ msgstr "تمت إضافة البريد الإلكتروني بنجاح .. شكرا لك"
+
+#~ msgid "E-mail already exists"
+#~ msgstr "البريد الإلكتروني موجود بالفعل"
+
+#~ msgid "An error has occurred, try again later"
+#~ msgstr "لقد حدث خطأ، حاول مرة أخرى في وقت لاحق"
+
+# @ total
+#~ msgid "+"
+#~ msgstr "+"
+
+# @ total
+#~ msgid "&#8211;"
+#~ msgstr "&#8211;"
+
+# @ total
+#~ msgid "Select or Upload Files"
+#~ msgstr "اختر الملفات"
+
+# @ total
+#~ msgid "Select or Upload Images"
+#~ msgstr "اختيار او رفع الصورة"
+
+#~ msgid "Contact Information"
+#~ msgstr "معلومات الاتصال"
+
+#~ msgid "Contact Form"
+#~ msgstr "نموذج الاتصال"
+
+#~ msgid "Photos of Branch"
+#~ msgstr "صور من الفرع"
+
+#~ msgid "Other Products"
+#~ msgstr "منتجات آخرى"
+
+#~ msgid "Product Name"
+#~ msgstr "اسم المنتج"
+
+#~ msgid "Human verification"
+#~ msgstr "التحقق البشري"
+
+# @ total
+#~ msgid "Post"
+#~ msgstr "موضوع"
+
+#~ msgid "User"
+#~ msgstr "العضو"
+
+#~ msgid "Work Time - PM"
+#~ msgstr "وقت الدوام - مساءً"
+
+#~ msgid "Hanoi, Vietnam"
+#~ msgstr "فيتنام"
+
+#, fuzzy
+#~ msgid "Enter your email here ..."
+#~ msgstr "ضع بريدك الإلكتروني هنا .."
+
+#~ msgid "Client option"
+#~ msgstr "خيارات العميل"
+
+#~ msgid "Footer menu"
+#~ msgstr "قائمة الفوتر - انجليزي"
+
+#~ msgid "Footer menu arabic"
+#~ msgstr "قائمة الفوتر - عربي"
+
+#~ msgid "View Slider"
+#~ msgstr "عرض السلايد"
+
+# @ total
+#~ msgid "Add New Slider"
+#~ msgstr "اضف سلايد  جديد"
+
+#~ msgid "Add Slider"
+#~ msgstr "اضف سلايد"
+
+#~ msgid "Edit Slider"
+#~ msgstr "تعديل السلايد"
+
+#~ msgid "Update Slider"
+#~ msgstr "تحديث السلايد"
+
+#~ msgid "Search Slider"
+#~ msgstr "بحث في السلايد"
+
+#~ msgid "Not found in Trash"
+#~ msgstr "سلة المهملات فارغة"
+
+#~ msgid "All Products"
+#~ msgstr "كل المنتجات"
+
+#~ msgid "View Product"
+#~ msgstr "عرض المنتج"
+
+# @ total
+#~ msgid "Add New"
+#~ msgstr "اضافة جديد"
+
+#~ msgid "Update"
+#~ msgstr "تحديث"
+
+#~ msgid "Clients"
+#~ msgstr "العملاء"
+
+#~ msgid "Parent Client:"
+#~ msgstr "العميل الرئيسي"
+
+#~ msgid "View Client"
+#~ msgstr "عرض العميل"
+
+#~ msgid "facebook"
+#~ msgstr "الفيسبوك"
+
+#~ msgid "twitter"
+#~ msgstr "تويتر"
+
+#~ msgid "instagram"
+#~ msgstr "انستقرام"
+
+#~ msgid "Youtube"
+#~ msgstr "يوتيوب"
+
+#~ msgid "Tel."
+#~ msgstr "الهاتف"
+
+#~ msgid "Please type your phone number"
+#~ msgstr "الرجاء كتابة رقم الهاتف"
+
+#~ msgid "Category"
+#~ msgstr "الأقسام"
+
+# @ total
+#~ msgid "Please select a Category"
+#~ msgstr "أختر القسم"
+
+# @ total
+#~ msgid "Select a Category"
+#~ msgstr "أختر القسم"
+
+#~ msgid "Captcha"
+#~ msgstr "كود التحقق"
+
+#~ msgid "You must type the verification code numbers and only 4 fields"
+#~ msgstr "يجب كتابة كود التحقق أرقام فقط و من 4 حقول"
+
+#~ msgid "Tel"
+#~ msgstr "رقم الهاتف"
+
+#~ msgid "more"
+#~ msgstr "المزيد"
+
+#~ msgid "Horses"
+#~ msgstr "الخيول"
+
+#~ msgid "Parent Horse:"
+#~ msgstr "الخيل  الرئيسي:"
+
+#~ msgid "All Horses"
+#~ msgstr "كل الخيول"
+
+#~ msgid "View Horse"
+#~ msgstr "عرض الخيل"
+
+#~ msgid "Date"
+#~ msgstr "التاريخ"
+
+#~ msgid "Name - English"
+#~ msgstr "الاسم -لغة انجليزية"
+
+#~ msgid "Name - Arabic"
+#~ msgstr "الاسم - لغة عربية"
+
+#~ msgid "remove"
+#~ msgstr "حذف"
+
+#~ msgid "Search..."
+#~ msgstr "بحث ..."
+
+#~ msgid "Search Results"
+#~ msgstr "نتائج البحث"
+
+#~ msgid "Horse Gallery"
+#~ msgstr "معرض صور الخيل"
+
+#~ msgid "Sub Title English"
+#~ msgstr "العنوان الفرعي - انجليزي"
+
+#~ msgid "Sub Title Arabic"
+#~ msgstr "العنوان الفرعي - عربي"
+
+#~ msgid "Championships"
+#~ msgstr "البطولات"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "هل أنت متأكد من حذف العنصر ؟"
+
+#~ msgid "Pedigree"
+#~ msgstr "النسب"
+
+#~ msgid "Add"
+#~ msgstr "اضافة"
+
+#~ msgid "<strong>Last</strong> News"
+#~ msgstr "‏<strong>آخر</strong> الأخبار"
+
+#~ msgid "Sorry there are currently no championships."
+#~ msgstr "المعذرة لا توجد بطولات في الوقت الحالي ."
+
+#~ msgid "URL Client"
+#~ msgstr "رابط العميل"
+
+#~ msgid "Video option"
+#~ msgstr "خيارات الفيديو"
+
+#~ msgid "Youtube Code"
+#~ msgstr "كود  اليوتيوب"
+
+#~ msgid ""
+#~ "<span style='color:black'>Example:</span> http://www.youtube.com/watch?"
+#~ "v=<span style='color:red'>btAl8L1PWSo</span>"
+#~ msgstr ""
+#~ "‏<span style='color:black'>مثال:</span> http://www.youtube.com/watch?"
+#~ "v=<span style='color:red'>btAl8L1PWSo</span>"
+
+#~ msgid "projects"
+#~ msgstr "المشاريع"
+
+#~ msgid "Videos"
+#~ msgstr "الفيديو"
+
+#~ msgid "Video"
+#~ msgstr "الفيديو"
+
+#~ msgid "Client"
+#~ msgstr "العميل"
+
+#~ msgid "search"
+#~ msgstr "بحث"
+
+#~ msgid "NEWS & UPDATES"
+#~ msgstr "الأخبار والتحديثات"
+
+#~ msgid "Follow us"
+#~ msgstr "تابعنا"
+
+#~ msgid "Custom navbar Menu"
+#~ msgstr "قائمة النافبار"
+
+#~ msgid "Custom Sidebar Menu"
+#~ msgstr "قائمة  السايدبار"
+
+#~ msgid "Linkedin"
+#~ msgstr "رابط حساب لينكدان"
+
+# @ total
+#~ msgid "News"
+#~ msgstr "الأخبار"
+
+# @ total
+#~ msgid "Add New News"
+#~ msgstr "اضف خبر جديد"
+
+#~ msgid "categories"
+#~ msgstr "الأقسام"
+
+# @ total
+#~ msgid "Edit News"
+#~ msgstr "تعديل الخبر"
+
+#~ msgid "View News"
+#~ msgstr "عرض الخبر"
+
+#~ msgid "There is currently no news added"
+#~ msgstr "لاتوجد أخبار مضافة"
+
+#~ msgid "Empty the trash !"
+#~ msgstr "سلة المهملات فارغة !"
+
+#~ msgid "Share"
+#~ msgstr "شارك"
+
+#~ msgid "Google Map"
+#~ msgstr "خرائط قوقل"
+
+#, fuzzy
+#~ msgid "Taxonomy Order"
+#~ msgstr "التصنيف"
+
+#, fuzzy
+#~ msgid "Taxonomies"
+#~ msgstr "التصنيف"
+
+#, fuzzy
+#~ msgid "Taxonomy Title"
+#~ msgstr "التصنيف"
+
+#, fuzzy
+#~ msgid "Settings Saved"
+#~ msgstr "حفظ الإعدادات"
+
+#, fuzzy
+#~ msgid "General Settings"
+#~ msgstr "إعدادات"
+
+#~ msgid "General"
+#~ msgstr "عام"
+
+#, fuzzy
+#~ msgid "Subscriber"
+#~ msgstr "ضع بريدك واشترك"
+
+#, fuzzy
+#~ msgid "Contributor"
+#~ msgstr "استمرار"
+
+# @ total
+#, fuzzy
+#~ msgid "Editor"
+#~ msgstr "تعديل"
+
+#, fuzzy
+#~ msgid "Administrator"
+#~ msgstr "المسؤول في المملكة"
+
+#~ msgid "here"
+#~ msgstr "هنا"
+
+#~ msgid "Taxonomy Terms Order"
+#~ msgstr "ترتيب الأقسام"
+
+#~ msgid "partners"
+#~ msgstr "الشركاء"
+
+#~ msgid "Parent partner:"
+#~ msgstr "الشريك الرئيسي"
+
+#~ msgid "All partners"
+#~ msgstr "كل الشركاء"
+
+#~ msgid "View partner"
+#~ msgstr "عرض الشريك"
+
+# @ total
+#~ msgid "Add New partner"
+#~ msgstr "اضف شريك  جديد"
+
+# @ total
+#~ msgid "Add partner"
+#~ msgstr "اضف شريك   جديد"
+
+#~ msgid "Edit partner"
+#~ msgstr "تعديل الشريك"
+
+#~ msgid "Update partner"
+#~ msgstr "تحديث الشريك"
+
+#~ msgid "Search partners"
+#~ msgstr "بحث في الشركاء"
+
+#~ msgid "Activation of the human verification (captcha)"
+#~ msgstr "تفعيل التحقق البشري (captcha)"
+
+# @ total
+#~ msgid "Delete this image"
+#~ msgstr "احذف  الصورة"
+
+# @ total
+#~ msgid "Upload new files"
+#~ msgstr "رفع ملف جديد"
+
+# @ total
+#~ msgid "Select a color"
+#~ msgstr "اختر اللون"
+
+#~ msgid "Thumbnail Category"
+#~ msgstr "الصورة البارزة للقسم"
+
+#~ msgid "This email is registerd! Enter new email."
+#~ msgstr "البريد الإلكتروني مضاف مسبقاً , الرجاء ادخال بريد جديد !"
+
+#~ msgid "This mobile no. is registerd! Enter new mobile no."
+#~ msgstr "رقم الجوال مضاف مسبقاً الرجاء ادخال رقم جديد ! "
+
+#~ msgid "Thank you. insert done."
+#~ msgstr "شكراً لك , تمت الاضافة بنجاح"
+
+#~ msgid "to"
+#~ msgstr "إلى"
+
+#~ msgid "Enter Keyword"
+#~ msgstr "ادخل كلمة البحث"
+
+# @ total
+#~ msgid "Select a category"
+#~ msgstr "اختر القسم"
+
+#~ msgid "GO"
+#~ msgstr "إذهب"
+
+#~ msgid "Browse"
+#~ msgstr "استعراض"
+
+#~ msgid "all"
+#~ msgstr "الكل"
+
+#~ msgid "Browse By"
+#~ msgstr "استعراض بـ"
+
+#~ msgid "No results were found."
+#~ msgstr "المعذرة ما تبحث عنه غير موجود ."
+
+#~ msgid "Shop"
+#~ msgstr "المتجر"
+
+#~ msgid ""
+#~ "Subscribe to our newsletter and we’ll keep you up-to-date with theme news "
+#~ "and special deals. Get in touch everytime."
+#~ msgstr ""
+#~ "ضع بريدك الالكتروني ورقم هاتفك لتصلك أحدث الاخبار والعروض. كن على تواصل "
+#~ "طول الوقت"
+
+#~ msgid "Send Now"
+#~ msgstr "أرسـل الآن"
+
+#~ msgid "© 2014 AlAndalus Mall - All rights reserved."
+#~ msgstr "© 2014 الأندلس مول - جميع الحقوق محفوظة. "
+
+#~ msgid "Enter your Email address"
+#~ msgstr "ضع بريدك الإلكتروني هنا .."
+
+# @ total
+#~ msgid "You must Enter email or mobile no."
+#~ msgstr "يجب إدخال البريد الإلكتروني او رقم الجوال"
+
+#~ msgid "Please enter a valid Email adress !!"
+#~ msgstr "اكتب البريد الإلكتروني بصورة صحيحة !"
+
+#~ msgid "Custom navbar Menu - Arabic"
+#~ msgstr "قائمة النافبار- عربي"
+
+#~ msgid "partners option"
+#~ msgstr "خيارات الشركاء"
+
+#~ msgid "URL partner"
+#~ msgstr "رابط الشريك"
+
+#~ msgid "Events"
+#~ msgstr "الفعاليات"
+
+#~ msgid "Date & Time"
+#~ msgstr "التاريخ والوقت"
+
+#~ msgid "From"
+#~ msgstr "من"
+
+#~ msgid "To"
+#~ msgstr "إلى"
+
+#~ msgid "Place"
+#~ msgstr "المكان"
+
+#~ msgid "Shops"
+#~ msgstr "المتاجر"
+
+#~ msgid "Shop Category"
+#~ msgstr "تصنيف المتجر"
+
+#~ msgid "offer Options"
+#~ msgstr "خيارات العرض"
+
+# @ total
+#~ msgid "Select Shop"
+#~ msgstr "اختر المتجر"
+
+#~ msgid "Recent News"
+#~ msgstr "آخر الأخبار"
+
+#~ msgid "Recent Events"
+#~ msgstr "آخر الفعاليات"
+
+#~ msgid "Contact Us   "
+#~ msgstr "معلومات التواصل"
+
+#~ msgid "Keep in touch"
+#~ msgstr "راسلنا"
+
+#~ msgid "Enlarge map"
+#~ msgstr "تكبير الخريطة"
+
+#~ msgid "Options Social Sites"
+#~ msgstr "اعدادات  المواقع الإجتماعية"
+
+#~ msgid "Facebook Options"
+#~ msgstr "خيارات الفيسبوك"
+
+#~ msgid "Google Plus Page Link"
+#~ msgstr "رابط قوقل بلس"
+
+#~ msgid "Display Options"
+#~ msgstr "خيارات العرض"
+
+#~ msgid "Show"
+#~ msgstr "عرض"
+
+#~ msgid "Hide"
+#~ msgstr "اخفاء"
+
+#~ msgid "Twitter Page Link"
+#~ msgstr "رابط صفحة التويتر"
+
+#~ msgid "Linked in options"
+#~ msgstr "خيارات لينكدان"
+
+#~ msgid "Google Plus Options"
+#~ msgstr "خيارت قوقل بلس"
+
+#~ msgid "Video Category"
+#~ msgstr "أقسام الفيديو"
+
+#~ msgid "send"
+#~ msgstr "ارسل"
+
+#~ msgid "Enter numbers shown in the picture"
+#~ msgstr "أدخل الأرقام الظاهرة في الصورة التالية"
+
+#~ msgid "Categories activation model the messaging"
+#~ msgstr "تفعيل الأقسام في المراسلة"
+
+#~ msgid ""
+#~ "Activation (in the case of activation, will be the adoption of e-mail to "
+#~ "send a copy of the sections and alert only)"
+#~ msgstr ""
+#~ "تفعيل ( في حالة التفعيل ,, سيتم إعتماد البريد الإلكتروني للأقسام لارسال "
+#~ "نسخة و تنبيه فقط)"
+
+#~ msgid "The message type"
+#~ msgstr "نوع الرسالة"
+
+#~ msgid "Inquiry"
+#~ msgstr "استفسار"
+
+#~ msgid "Top Pattren"
+#~ msgstr "النمط العلوي(الزخرفة)"
+
+#~ msgid "bottom Pattren"
+#~ msgstr "الزخارف السفلية"
+
+#~ msgid "Reference"
+#~ msgstr "المرجع"
+
+#~ msgid "Employment"
+#~ msgstr "التوظيف"
+
+#~ msgid "Job applications"
+#~ msgstr "طلبات التوظيف"
+
+#~ msgid "Send your CV"
+#~ msgstr "ارسل سيرتك الذاتية"
+
+#~ msgid "Please type your Email"
+#~ msgstr "الرجاء كتابة بريدك الإلكتروني"
+
+#~ msgid "Nationality"
+#~ msgstr "الجنسية"
+
+#~ msgid "Please type your Nationality"
+#~ msgstr "الرجاء كتابة جنسيتك"
+
+#~ msgid "Jobs available"
+#~ msgstr "الوظائف المتاحة"
+
+#~ msgid "Please select a Jop"
+#~ msgstr "الرجاء اختيار الوظيفة"
+
+#~ msgid "CV"
+#~ msgstr "السيرة الذاتية"
+
+#~ msgid "Contact Details"
+#~ msgstr "تواصل معنا"
+
+#~ msgid "Join us"
+#~ msgstr "اشترك معنا"
+
+#~ msgid "Through your email or social media channels"
+#~ msgstr "من خلال بريدك الالكتروني او قنوات التواصل الاجتماعي"
+
+#~ msgid "Taqnia on"
+#~ msgstr "تقنية على "
+
+#~ msgid "All Rights Reserved © 2014"
+#~ msgstr "جميع الحقوق محفوظة © 2014"
+
+#~ msgid "Custom navbar menu English"
+#~ msgstr "قائمة النافبار - انجليزي"
+
+#~ msgid "Custom navigation footer"
+#~ msgstr "قائمة التنقل أسفل الموقع"
+
+#~ msgid "Custom English navigation footer"
+#~ msgstr "قائمة الفوتر- انجليزي"
+
+#~ msgid "banners"
+#~ msgstr "البنرات"
+
+#~ msgid "Banner"
+#~ msgstr "البنرات"
+
+#~ msgid "View Banner"
+#~ msgstr "عرض البنر"
+
+#~ msgid "Search .."
+#~ msgstr "بحث.."
+
+#~ msgid "Team"
+#~ msgstr "فريق العمل"
+
+#~ msgid "All Categories"
+#~ msgstr "كل الأقسام"
+
+#~ msgid "Parent Category"
+#~ msgstr "القسم الرئيسية :"
+
+#~ msgid "Parent Category:"
+#~ msgstr "القسم الرئيسي :"
+
+#~ msgid "Edit Category"
+#~ msgstr "تعديل القسم"
+
+#~ msgid "Search Categories "
+#~ msgstr "بحث في الأقسام"
+
+#~ msgid "Add or remove Categories"
+#~ msgstr "اضافة او إزالة القسم"
+
+#~ msgid "Choose from the most used Categories"
+#~ msgstr "اختر من الأقسام  الأكثر استخداماً"
+
+#~ msgid "Not Found"
+#~ msgstr "المحتوى فارغ"
+
+#~ msgid "Taqnia"
+#~ msgstr "تقنية"
+
+#~ msgid "Details"
+#~ msgstr "التفاصيل"
+
+#~ msgid "Excuse me, what you are looking dementia is not available here"
+#~ msgstr "عفواً , ما تبحث عنه غير موجود"
+
+#~ msgid "Twitter page"
+#~ msgstr "رابط صفحة التويتر"
+
+#~ msgid "Google + page"
+#~ msgstr "رابط صفحة قوقل بلس"
+
+#~ msgid "Linked in page"
+#~ msgstr "رابط حساب لينكدان"
+
+#~ msgid "Jop Name"
+#~ msgstr "المسمى الوظيفي"
+
+#~ msgid "Options Banner"
+#~ msgstr "خيارات البنرات"
+
+#~ msgid "URL banners"
+#~ msgstr "رابط  البنر"
+
+#~ msgid "Color"
+#~ msgstr "اللون"
+
+#~ msgid "Orange"
+#~ msgstr "برتقالي"
+
+#~ msgid "Cerise"
+#~ msgstr "كرزي"
+
+#~ msgid "Purple"
+#~ msgstr "أرجواني"
+
+#~ msgid "Mask"
+#~ msgstr "القناع"
+
+#~ msgid "Image"
+#~ msgstr "الصورة إنجي"
+
+#~ msgid "YouTube options"
+#~ msgstr "خيارات اليوتيوب"
+
+#~ msgid "YouTube Channel Link"
+#~ msgstr "رابط صفحة الفيسبوك"
+
+#~ msgid "Please type your Message"
+#~ msgstr "الرجاء كتابة رسالتك"
+
+#~ msgid "Cancel"
+#~ msgstr "إلغاء"
+
+#~ msgid "edit"
+#~ msgstr "تعديل "
+
+# @ total
+#~ msgid "delete"
+#~ msgstr "حذف"
+
+#~ msgid "Video Code"
+#~ msgstr "كود الفيديو"
+
+#~ msgid "Options Album"
+#~ msgstr "خيارات الألبوم"
+
+#~ msgid "Photo Album"
+#~ msgstr "ألبوم الصور"
+
+#~ msgid "Photo Gallery"
+#~ msgstr "معرض الصور"
+
+#~ msgid "services"
+#~ msgstr "الخدمات"
+
+#~ msgid "Services"
+#~ msgstr "الخدمات"
+
+#~ msgid "Service"
+#~ msgstr "الخدمات"
+
+#~ msgid "Parent Service:"
+#~ msgstr "الخدمة الرئيسية"
+
+#~ msgid "All Services"
+#~ msgstr "كل الخدمات"
+
+#~ msgid "View Service"
+#~ msgstr "عرض الخدمة"
+
+# @ total
+#~ msgid "Add New Service"
+#~ msgstr "اضف خدمة  جديد"
+
+# @ total
+#~ msgid "Add Service"
+#~ msgstr "اضف خدمة  جديد"
+
+#~ msgid "Edit Service"
+#~ msgstr "عرض الخدمة"
+
+#~ msgid "Update Service"
+#~ msgstr "تحديث الخدمة "
+
+#~ msgid "Search Services"
+#~ msgstr "بحث في الخدمات"
+
+#~ msgid "All Videos"
+#~ msgstr "جميع الفيديو"
+
+#~ msgid "View Videos"
+#~ msgstr "عرض الفيديو"
+
+# @ total
+#~ msgid "Add New Videos"
+#~ msgstr "اضف فيديو  جديد"
+
+#~ msgid "Edit Videos"
+#~ msgstr "تعديل الفيديو"
+
+#~ msgid "Update Videos"
+#~ msgstr "تحديث الفيديو"
+
+#~ msgid "Search in Videos"
+#~ msgstr "بحث في الفيديو"
+
+#~ msgid "All Album"
+#~ msgstr "كل الألبومات"
+
+#~ msgid "View Album"
+#~ msgstr "عرض الألبوم"
+
+# @ total
+#~ msgid "Add new Album"
+#~ msgstr "اضف ألبوم جديد"
+
+#~ msgid "Edit Album"
+#~ msgstr "تعديل الألبوم"
+
+#~ msgid "update Album"
+#~ msgstr "تحديث الألبوم"
+
+#~ msgid "Search Album"
+#~ msgstr "بحث في الألبومات"
+
+#~ msgid "Go to .."
+#~ msgstr "ذهاب إلى ..."
+
+#~ msgid "Add New Project"
+#~ msgstr "أضف مشروع جديد "
+
+#~ msgid "Add Project"
+#~ msgstr "أضف مشروع"
+
+#~ msgid "Edit Project"
+#~ msgstr "تعديل المشروع"
+
+#~ msgid "Update Project"
+#~ msgstr "تحديث المشروع"
+
+#~ msgid "Search Project"
+#~ msgstr "بحث في المشاريع"
+
+#, fuzzy
+#~ msgid "Your images"
+#~ msgstr "رسالتك"
+
+#, fuzzy
+#~ msgid "Post Types"
+#~ msgstr "النوع  الرئيسي:"
+
+#, fuzzy
+#~ msgid "Post Type"
+#~ msgstr "النوع  الرئيسي:"
+
+#~ msgid "bridal"
+#~ msgstr "زفافي"
+
+#~ msgid "Fine Jewelry"
+#~ msgstr "المجوهرات الراقية"
+
+#~ msgid "gentlemen"
+#~ msgstr "السادة"
+
+#~ msgid "Jewelry"
+#~ msgstr "المجوهرات"
+
+#~ msgid "copyright © 2014"
+#~ msgstr "جميع الحقوق محفوظة 2014"
+
+# @ total
+#~ msgid "Left Menu"
+#~ msgstr "قائمة يسار الهيدر"
+
+#~ msgid "Right Menu Arabic"
+#~ msgstr "القائمة يمين الهيدر- عربي"
+
+#~ msgid "Menu Arabic For small devices"
+#~ msgstr "قائمة الأجهزة الذكية -عربي"
+
+#~ msgid "Menu  For small devices"
+#~ msgstr "قائمة الفوتر للأجهزة الذكية"
+
+#~ msgid "Sliders"
+#~ msgstr "السلايد"
+
+#~ msgid "jewelry"
+#~ msgstr "المجوهرات"
+
+#~ msgid "Parent jewelry:"
+#~ msgstr "المجوهرات الأساسية:"
+
+#~ msgid "All jewelry"
+#~ msgstr "كل المجوهرات"
+
+# @ total
+#~ msgid "Add New jewelry"
+#~ msgstr "اضافة مجوهرات جديدة"
+
+# @ total
+#~ msgid "Add jewelry"
+#~ msgstr "اضافة مجوهرات"
+
+#~ msgid "Edit jewelry"
+#~ msgstr "تعديل المجوهرات"
+
+#~ msgid "Update jewelry"
+#~ msgstr "تحديث المجوهرات"
+
+#~ msgid "Search jewelry"
+#~ msgstr "بحث في المجوهرات"
+
+#~ msgid "Parent gentlemen:"
+#~ msgstr "السادة  الرئيسي"
+
+#~ msgid "All gentlemen"
+#~ msgstr "الكل"
+
+#~ msgid "View gentlemen"
+#~ msgstr "عرض"
+
+# @ total
+#~ msgid "Add New gentlemen"
+#~ msgstr "اضافة جديد"
+
+#~ msgid "Add gentlemen"
+#~ msgstr "اضافة جديد"
+
+#~ msgid "Edit gentlemen"
+#~ msgstr "تعديل"
+
+#~ msgid "Update gentlemen"
+#~ msgstr "تحديث"
+
+#~ msgid "Search gentlemen"
+#~ msgstr "بحث"
+
+#~ msgid "Parent bridal:"
+#~ msgstr "الرئيسي"
+
+#~ msgid "All bridal"
+#~ msgstr "الكل"
+
+#~ msgid "View bridal"
+#~ msgstr "عرض"
+
+# @ total
+#~ msgid "Add New bridal"
+#~ msgstr "اضافة جديد"
+
+#~ msgid "Add bridal"
+#~ msgstr "اضفة جديد"
+
+#~ msgid "Edit bridal"
+#~ msgstr "تعديل"
+
+#~ msgid "Update bridal"
+#~ msgstr "تحديث"
+
+#~ msgid "Search bridal"
+#~ msgstr "بحث"
+
+#~ msgid "Parent Jewelry:"
+#~ msgstr "المجوهرات الأساسية:"
+
+#~ msgid "All Jewelry"
+#~ msgstr "كل المجوهرات"
+
+#~ msgid "View Jewelry"
+#~ msgstr "عرض المجوهرات"
+
+# @ total
+#~ msgid "Add New Jewelry"
+#~ msgstr "اضافة مجوهرات جديدة"
+
+# @ total
+#~ msgid "Add Jewelry"
+#~ msgstr "اضافة مجوهرات"
+
+#~ msgid "Edit Jewelry"
+#~ msgstr "تعديل المجوهرات"
+
+#~ msgid "Update Jewelry"
+#~ msgstr "تحديث المجوهرات"
+
+#~ msgid "Search Jewelry"
+#~ msgstr "بحث في المجوهرات"
+
+#~ msgid "Locations"
+#~ msgstr "المواقع"
+
+#~ msgid "Parent Location:"
+#~ msgstr "الموقع الرئيسي :"
+
+#~ msgid "All Locations"
+#~ msgstr "كل المواقع"
+
+#~ msgid "View Location"
+#~ msgstr "عرض الموقع"
+
+# @ total
+#~ msgid "Add New Location"
+#~ msgstr "اضافة موقع جديد"
+
+#~ msgid "Add Location"
+#~ msgstr "اضافة موقع"
+
+#~ msgid "Edit Location"
+#~ msgstr "تعديل المواقع"
+
+#~ msgid "Update Location"
+#~ msgstr "تحديث الموقع"
+
+#~ msgid "Search Locations"
+#~ msgstr "بحث في المواقع"
+
+#~ msgid "Sorry, content is empty."
+#~ msgstr "عفواً المحتوى فارغ"
+
+#~ msgid "Like us in Facebook"
+#~ msgstr "تابعنا على الفيسبوك"
+
+#~ msgid "Follow us in Twitter"
+#~ msgstr "تابعنا على التويتر"
+
+#~ msgid "Follow us in Google+"
+#~ msgstr "تابعنا على قوقل بلس"
+
+#~ msgid "Like us in Youtube"
+#~ msgstr "تابعنا على اليوتيوب"
+
+#~ msgid "home"
+#~ msgstr "الرئيسية"
+
+#~ msgid "Branches & locations"
+#~ msgstr "المواقع و الفروع"
+
+# @ total
+#~ msgid "Select an area"
+#~ msgstr "اختر منطقة"
+
+#~ msgid "View the branch on the map"
+#~ msgstr "عرض الفرع على الخريطة"
+
+#~ msgid "Click here"
+#~ msgstr "اضغط هنا"
+
+#~ msgid "Career"
+#~ msgstr "الوظائف"
+
+#~ msgid "Available Jobs"
+#~ msgstr "الوظائف المتاحة"
+
+#~ msgid "Doors"
+#~ msgstr "أبواب"
+
+#~ msgid "Bags"
+#~ msgstr "حقائب "
+
+#~ msgid "Suitcase"
+#~ msgstr "حقيبة سفر"
+
+#~ msgid "Passengers"
+#~ msgstr "الركاب"
+
+#~ msgid "Automatic"
+#~ msgstr "أوتوماتيكي"
+
+#~ msgid "Air-conditioning"
+#~ msgstr "مكيف الهواء"
+
+#~ msgid "Call Us"
+#~ msgstr "اتصل بنا"
+
+#~ msgid "Book Now!"
+#~ msgstr "احجز الآن"
+
+#~ msgid "Navigation"
+#~ msgstr "قائمة التنقل"
+
+#~ msgid "Links"
+#~ msgstr "روابط"
+
+#~ msgid "Social"
+#~ msgstr "المواقع الإجتماعية"
+
+#~ msgid "Custom Header menu"
+#~ msgstr "قائمة الهيدر"
+
+#~ msgid "Custom Header menu - arabic"
+#~ msgstr "قائمة الهيدر - اللغة العربية"
+
+#~ msgid "Custom navigation footer - arabic"
+#~ msgstr "قائمة التنقل أسفل الموقع - اللغة العربية"
+
+#~ msgid "Custom links in footer"
+#~ msgstr "قائمة الروابط في الفوتر"
+
+#~ msgid "Custom links in footer - arabic "
+#~ msgstr "قائمة الروابط في الفوتر - اللغة العربية"
+
+#~ msgid "sidebar menu "
+#~ msgstr "قائمة السايدبار"
+
+#~ msgid "sidebar menu - arabic "
+#~ msgstr "قائمة السايدبار -عربي"
+
+#~ msgid "Edit offer"
+#~ msgstr "تعديل العرض"
+
+#~ msgid "FAQ"
+#~ msgstr "الاسئلة الشائعة"
+
+#~ msgid "All FAQ"
+#~ msgstr "الأسئلة الشائعة"
+
+#~ msgid "View FAQ"
+#~ msgstr "عرض السؤال"
+
+#~ msgid "Add New FAQ"
+#~ msgstr "أضف سؤال جديد"
+
+#~ msgid "Edit FAQ"
+#~ msgstr "تعديل السؤال"
+
+#~ msgid "Update FAQ"
+#~ msgstr "تحديث السؤال"
+
+#~ msgid "Search FAQ"
+#~ msgstr "بحث في الأسئلة"
+
+# @ total
+#~ msgid "Add New Branch"
+#~ msgstr "اضف فرع   جديد"
+
+#~ msgid "Add Branch"
+#~ msgstr "اضف فرع"
+
+#~ msgid "Edit Branch"
+#~ msgstr "تعديل الفرع"
+
+#~ msgid "Update Branch"
+#~ msgstr "تحديث الفرع"
+
+#~ msgid "Region"
+#~ msgstr "المناطق"
+
+#~ msgid "All Regions"
+#~ msgstr "كل المناطق"
+
+#~ msgid "Parent Region"
+#~ msgstr "المنطقة الرئيسية"
+
+#~ msgid "New Region"
+#~ msgstr "منطقة جديدة"
+
+#~ msgid "Edit Region"
+#~ msgstr "تعديل المنطقة"
+
+#~ msgid "Add or remove Regions"
+#~ msgstr "اضافة او حذف المنطقة"
+
+#~ msgid "All Jobs"
+#~ msgstr "كل الوظائف"
+
+#~ msgid "View Job"
+#~ msgstr "عرض الوظيفة"
+
+# @ total
+#~ msgid "Add New Job"
+#~ msgstr "اضف وظيفة جديدة"
+
+# @ total
+#~ msgid "Add Job"
+#~ msgstr "اضف وظيفة"
+
+#~ msgid "Edit Job"
+#~ msgstr "تعديل الوظيفة"
+
+#~ msgid "Update Job"
+#~ msgstr "تحديث الوظيفة"
+
+#~ msgid "Search Jobs"
+#~ msgstr "بحث في الوظائف"
+
+#~ msgid "jobs"
+#~ msgstr "الوظائف"
+
+#~ msgid "Used Cars"
+#~ msgstr "السيارات المستعملة"
+
+#~ msgid "All Cars"
+#~ msgstr "كل السيارات"
+
+#~ msgid "View Car"
+#~ msgstr "عرض السيارة"
+
+# @ total
+#~ msgid "Add Car"
+#~ msgstr "اضف سيارة"
+
+#~ msgid "Edit Car"
+#~ msgstr "تعديل السيارة"
+
+#~ msgid "Fleets"
+#~ msgstr "اسطولنا"
+
+#~ msgid "Type"
+#~ msgstr "النوع"
+
+#~ msgid "All Types"
+#~ msgstr "كل الأنواع"
+
+#~ msgid "New Type"
+#~ msgstr "نوع جديد"
+
+# @ total
+#~ msgid "Edit Type"
+#~ msgstr "تعديل النوع"
+
+#~ msgid "Update Type"
+#~ msgstr "تحديث النوع"
+
+#~ msgid "Separate Types with commas"
+#~ msgstr "افصل بين الأنواع بفاصلة"
+
+#~ msgid "Search Types"
+#~ msgstr "بحث في الانواع"
+
+#~ msgid "Albums"
+#~ msgstr "الألبومات"
+
+#~ msgid "Parent Album:"
+#~ msgstr "الألبوم الرئيسي"
+
+# @ total
+#~ msgid "Add Album"
+#~ msgstr "اضف ألبوم جديد"
+
+#~ msgid "videos"
+#~ msgstr "الفيديو"
+
+# @ total
+#~ msgid "Add New client"
+#~ msgstr "اضف عميل  جديد"
+
+#~ msgid "Add client"
+#~ msgstr "اضف عميل"
+
+#~ msgid "Edit client"
+#~ msgstr "تعديل العميل"
+
+#~ msgid "Search clients"
+#~ msgstr "بحث في العملاء"
+
+#~ msgid "SEARCH"
+#~ msgstr "بحث"
+
+#~ msgid "Phone Number"
+#~ msgstr "رقم  الهاتف"
+
+#~ msgid "You must type the phone number is composed of 12 field"
+#~ msgstr "يجب كتابة رقم الهاتف أرقام فقط و من 12 حقول"
+
+#~ msgid "Your CV"
+#~ msgstr "سيرتك الذاتية"
+
+#~ msgid "STEP"
+#~ msgstr "الخطوة"
+
+#~ msgid "MAKE A RESERVATION"
+#~ msgstr "اجراء الحجز"
+
+#~ msgid "date & Time"
+#~ msgstr "التاريخ والوقت"
+
+#~ msgid "Pick up"
+#~ msgstr "اختر"
+
+#~ msgid "Return "
+#~ msgstr "العودة"
+
+#~ msgid "LOCATION"
+#~ msgstr "الموقع"
+
+# @ total
+#~ msgid "Select City"
+#~ msgstr "أختر المنطقة"
+
+# @ total
+#~ msgid "Return to different location"
+#~ msgstr "معلومات الإرجاع لموقع مختلف"
+
+#~ msgid "Have discount voucher Number"
+#~ msgstr "لديك قسيمة خصم"
+
+#~ msgid "Next"
+#~ msgstr "التالي"
+
+#~ msgid "INFORMATION & REVIEW"
+#~ msgstr "مراجعة المعلومات"
+
+#~ msgid "Country code "
+#~ msgstr "رمز الدولة"
+
+#~ msgid "ID number"
+#~ msgstr "الرقم التعريفي"
+
+#~ msgid "Age"
+#~ msgstr "العمر"
+
+#~ msgid "Please type your Age"
+#~ msgstr "الرجاء كتابة عمرك"
+
+#~ msgid "Please type your Company"
+#~ msgstr "الرجاء كتابة شركتك"
+
+#~ msgid "Please type your notes"
+#~ msgstr "الرجاء كتابة ملاحظتك"
+
+#~ msgid "I agree to terms and conditions"
+#~ msgstr "أوافق على البنود والشروط"
+
+#~ msgid "Make a Reservation"
+#~ msgstr "تقديم الحجز"
+
+#~ msgid "Modify"
+#~ msgstr "تعديل"
+
+#~ msgid "Get a Receipt"
+#~ msgstr "الحصول على الإيصال"
+
+# @ total
+#~ msgid "Pickup information"
+#~ msgstr "جمع المعلومات"
+
+#~ msgid "Age & Residence"
+#~ msgstr "العمر والإقامة"
+
+#~ msgid "Target link"
+#~ msgstr "نوع الرابط"
+
+#~ msgid "banner place"
+#~ msgstr "مكان البنر"
+
+#~ msgid "disable"
+#~ msgstr "تعطيل"
+
+#~ msgid "Sidebar"
+#~ msgstr "السايدبار"
+
+#~ msgid "Fax"
+#~ msgstr "فاكس"
+
+#~ msgid "Working Hours"
+#~ msgstr "أوقات الدوام"
+
+#~ msgid "Working Hours english"
+#~ msgstr "أوقات الدوام"
+
+#~ msgid "cars option"
+#~ msgstr "خيارات السيارة"
+
+#~ msgid "Manual"
+#~ msgstr "عادي"
+
+#~ msgid "no"
+#~ msgstr "لا"
+
+#~ msgid "albums"
+#~ msgstr "الألبومات"
+
+#~ msgid "show"
+#~ msgstr "عرض"
+
+#~ msgid "Client Website"
+#~ msgstr "موقع العميل"
+
+#~ msgid "Inquire Now!"
+#~ msgstr "الاستفسار الآن!"
+
+#~ msgid "map"
+#~ msgstr "الخريطة"
+
+#~ msgid "search Results"
+#~ msgstr "نتائج البحث"
+
+#~ msgid "submit"
+#~ msgstr "ارسل"
+
+#, fuzzy
+#~ msgid "right to left"
+#~ msgstr "قائمة يمين الموقع"
+
+#~ msgid "slider url"
+#~ msgstr "رابط السلايد"
+
+#~ msgid "view all"
+#~ msgstr "عرض الكل"
+
+#~ msgid "The major projects of the company are"
+#~ msgstr "ابرز المشاريع الرئيسية للشركه "
+
+#~ msgid "Telecom Engineering"
+#~ msgstr "هندسة الاتصالات"
+
+#~ msgid "OSP (Outside Plant) Construction and Maintenance Projects"
+#~ msgstr "OSP (المنشآت خارج ) البناء و مشاريع الصيانة"
+
+#~ msgid "GSM & Construction Project"
+#~ msgstr "GSM و مشاريع البناء"
+
+#~ msgid "Water Treatment & Leak Detection Projects"
+#~ msgstr "معالجة المياه و مشاريع كشف التسرب "
+
+#~ msgid "Facilities Maintenance Projects"
+#~ msgstr "مشاريع صيانة المرافق"
+
+#~ msgid "O & M Projects"
+#~ msgstr "مشاريع O & M "
+
+#~ msgid ""
+#~ "<span>Telecom Engineering</span> is primarily concerned with Engineering, "
+#~ "Planning, and Implementation of various telecom projects, including "
+#~ "landline and mobile communication development and other public utilities "
+#~ "of the Kingdom."
+#~ msgstr ""
+#~ "نقوم  بتنفيذ مشاريع الاتصالات المختلفة، بما في ذلك الهاتف الثابت و "
+#~ "الاتصالات المتنقلة كما نقوم بتطوير المرافق العامة الأخرى من المملكة."
+
+#~ msgid ""
+#~ "Telecom Engineering executes a wide range of telecom projects such as:"
+#~ msgstr "تشتمل هندسة الاتصالات على مجموعة واسعة من المشاريع مثل :"
+
+#~ msgid "Custom navabar Menu for small device"
+#~ msgstr "قائمة النافبار للأجهزة الذكية"
+
+#~ msgid "Custom navabar Menu for small device - Arabic"
+#~ msgstr "قائمة النافبار للأجهزة الذكية اللغة العربية"
+
+#~ msgid "Footer Menu on small devices - Arabic"
+#~ msgstr "قائمة الفوتر للأجهزة الذكية للغة العربية"
+
+#~ msgid "No Services found"
+#~ msgstr "المحتوى فارغ"
+
+#~ msgid "No Services found in Trash"
+#~ msgstr "سلة المهملات فارغة"
+
+#~ msgid "option page"
+#~ msgstr "خيارات الصفحة"
+
+#~ msgid "image title arabic"
+#~ msgstr "صورة العنوان - عربي"
+
+# @ total
+#~ msgid "Model Number"
+#~ msgstr "الموديل"
+
+#, fuzzy
+#~ msgid "Project Item:"
+#~ msgstr "صور المشروع"
+
+#, fuzzy
+#~ msgid "Add Project Item"
+#~ msgstr "صور المشروع"
+
+# @ total
+#~ msgid "Post Type Description"
+#~ msgstr "الوصف"
+
+#~ msgid "MODEL NO"
+#~ msgstr "الموديل"
+
+#~ msgid "DESCRIPTION"
+#~ msgstr "الوصف"
+
+#~ msgid "news"
+#~ msgstr "الأخبار"
+
+#~ msgid "New Banner"
+#~ msgstr "بنر جديد"
+
+#~ msgid "No Banners found"
+#~ msgstr "المحتوى فارغ"
+
+#~ msgid "No Banners found in Trash"
+#~ msgstr "سلة المهملات فارغة"
+
+# @ total
+#~ msgid "banner information pages"
+#~ msgstr "صفحة البنرات المخصصة"
+
+# @ total
+#~ msgid "news information pages"
+#~ msgstr "صفحة الأخبار  المخصصة"
+
+#~ msgid "Search in Gallery"
+#~ msgstr "بحث في المعرض"
+
+#~ msgid "No Gallery found in Trash"
+#~ msgstr "سلة المهملات فارغة"
+
+#~ msgid "EX 9665xxxxxxx"
+#~ msgstr "مثال 9665xxxxxxx"
+
+#~ msgid "name"
+#~ msgstr "الإسم "
+
+#~ msgid "Mobile No."
+#~ msgstr "رقم الجوال"
+
+#~ msgid "Name of spouse"
+#~ msgstr "اسم الزوج"
+
+#~ msgid "Another e-mail"
+#~ msgstr "بريد الكتروني اخر"
+
+#~ msgid "About your family members"
+#~ msgstr "معلومات عن افراد اسرتك"
+
+#~ msgid "Gender"
+#~ msgstr "الجنس"
+
+#~ msgid "Male"
+#~ msgstr "ذكر"
+
+#~ msgid "Female"
+#~ msgstr "انثى"
+
+#~ msgid "Date of Birth"
+#~ msgstr "تاريخ الميلاد"
+
+#~ msgid "Educational stage"
+#~ msgstr "المرحلة التعليمية"
+
+#~ msgid "Information about your business"
+#~ msgstr "معلومات عن عملك"
+
+#~ msgid "About your vehicle"
+#~ msgstr "معلومات عن مركبتك"
+
+#~ msgid "Type / Model"
+#~ msgstr "النوع/الموديل"
+
+#~ msgid "Board"
+#~ msgstr "اللوحة"
+
+#~ msgid "Do you have pets?"
+#~ msgstr "هل لديك حيوانات اليفة ؟"
+
+#~ msgid "If the answer is yes, I remember kinds"
+#~ msgstr "اذا كانت الإجابة بنعم اذكر انواعها"
+
+#~ msgid "Your notes"
+#~ msgstr "ملاحظاتك"
+
+#~ msgid "Save and Send"
+#~ msgstr "حفظ وارسال"
+
+#~ msgid "Thank you. I've been sent successfully the request"
+#~ msgstr "شكرا لك. لقد تم ارسال الطلب بنجاح"
+
+#~ msgid "faq"
+#~ msgstr "الأسئلة الشائعة"
+
+#~ msgid "Units"
+#~ msgstr "الوحدات"
+
+#~ msgid "Follow us on linkedin"
+#~ msgstr "تابعنا على اللنكد ان"
+
+#~ msgid "Share page on Facebook"
+#~ msgstr "شارك على الفيسبوك"
+
+#~ msgid "Share page on Twitter"
+#~ msgstr "شارك على التويتر"
+
+#~ msgid "Share page on Google Plus"
+#~ msgstr "شارك على القوقل بلس"
+
+#~ msgid "An error on the period: Start Date is greater than the end date"
+#~ msgstr "خطأ بتاريخ الفترة : تاريخ البداية اكبر من تاريخ النهاية"
+
+#~ msgid "Type of housing unit"
+#~ msgstr "نوع الوحدة السكنية"
+
+#~ msgid "Job"
+#~ msgstr "الوظيفة"
+
+#~ msgid "Ethiopia"
+#~ msgstr "أثيوبيا"
+
+#~ msgid "Azerbaijan"
+#~ msgstr "أذربيجان"
+
+#~ msgid "Armenia"
+#~ msgstr "أرمينيا"
+
+#~ msgid "Eritrea"
+#~ msgstr "أرتيريا"
+
+#~ msgid "Spain"
+#~ msgstr "اسبانيا"
+
+#~ msgid "Australia"
+#~ msgstr "استراليا"
+
+#~ msgid "Estonia"
+#~ msgstr "أستونيا"
+
+#~ msgid "Afghanistan"
+#~ msgstr "أفغانستان"
+
+#~ msgid "Ecuador"
+#~ msgstr "الإكوادور"
+
+#~ msgid "Albania"
+#~ msgstr "ألبانيا"
+
+#~ msgid "Germany"
+#~ msgstr "ألمانيا"
+
+#~ msgid "Antigua and Barbuda "
+#~ msgstr "أنتيغوا وبربودا"
+
+#~ msgid "Andorra"
+#~ msgstr "أندورا"
+
+#~ msgid "Indonesia"
+#~ msgstr "أندونيسيا"
+
+#~ msgid "Angola"
+#~ msgstr "أنغولا"
+
+#~ msgid "Uruguay"
+#~ msgstr "الأورغواي"
+
+#~ msgid "Uzbekistan"
+#~ msgstr "أوزبكستان"
+
+#~ msgid "Uganda"
+#~ msgstr "أوغندا"
+
+#~ msgid "Ukraine"
+#~ msgstr "أوكرانيا"
+
+#~ msgid "Iran"
+#~ msgstr "ايران"
+
+#~ msgid "Ireland"
+#~ msgstr "ايرلندا"
+
+#~ msgid "Iceland"
+#~ msgstr "ايسلندا"
+
+#~ msgid "Italy"
+#~ msgstr "إيطاليا"
+
+#~ msgid "Argentina"
+#~ msgstr "الأرجنتين"
+
+#~ msgid "Jordan"
+#~ msgstr "الأردن"
+
+# @ total
+#~ msgid "Russian Federation"
+#~ msgstr "الإتحاد الروسي"
+
+#~ msgid "Bahrain"
+#~ msgstr "البحرين"
+
+#~ msgid "Brazil"
+#~ msgstr "البرازيل"
+
+#~ msgid "Portugal"
+#~ msgstr "البرتغال"
+
+#~ msgid "Bosnia and Herzegovina"
+#~ msgstr "البوسنة والهرسك"
+
+#~ msgid "Algeria"
+#~ msgstr "الجزائر"
+
+#~ msgid "Libya"
+#~ msgstr "ليبيا"
+
+#~ msgid "Czech Republic"
+#~ msgstr "جمهورية التشيك"
+
+#~ msgid "Dominican Republic"
+#~ msgstr "الجمهورية الدومينيكية"
+
+#~ msgid "Syria"
+#~ msgstr "سوريا"
+
+#~ msgid "Denmark"
+#~ msgstr "الدنمارك"
+
+#~ msgid "Cape Verde"
+#~ msgstr "الرأس الأخضر"
+
+#~ msgid "El Salvador"
+#~ msgstr "السلفادور"
+
+#~ msgid "Senegal"
+#~ msgstr "السنغال"
+
+#~ msgid "Sudan"
+#~ msgstr "السودان"
+
+#~ msgid "Sweden"
+#~ msgstr "السويد"
+
+#~ msgid "Somalia"
+#~ msgstr "الصومال"
+
+#~ msgid "China"
+#~ msgstr "الصين"
+
+#~ msgid "Iraq"
+#~ msgstr "العراق"
+
+#~ msgid "Philippines"
+#~ msgstr "الفلبين"
+
+#~ msgid "Cameroon"
+#~ msgstr "الكاميرون"
+
+#~ msgid "Congo"
+#~ msgstr "الكونغو"
+
+#~ msgid "Kuwait"
+#~ msgstr "الكويت"
+
+#~ msgid "Hungary"
+#~ msgstr "هنقاريا"
+
+#~ msgid "Morocco"
+#~ msgstr "المغرب"
+
+#~ msgid "Mexico"
+#~ msgstr "المكسيك"
+
+#~ msgid "United Kingdom"
+#~ msgstr "المملكة المتحدة"
+
+#~ msgid "Norway"
+#~ msgstr "النرويج"
+
+#~ msgid "Austria"
+#~ msgstr "استراليا"
+
+#~ msgid "Niger"
+#~ msgstr "النيجر"
+
+#~ msgid "India"
+#~ msgstr "الهند"
+
+#~ msgid "USA"
+#~ msgstr "الولايات المتحدة الأمريكية"
+
+#~ msgid "Japan"
+#~ msgstr "اليابان"
+
+#~ msgid "Yemen"
+#~ msgstr "اليمن"
+
+#~ msgid "Greece"
+#~ msgstr "اليونان"
+
+#~ msgid "Papua New Guinea"
+#~ msgstr "بابوا غينيا الجديدة"
+
+#~ msgid "Paraguay"
+#~ msgstr "الأورغواي"
+
+#~ msgid "Pakistan"
+#~ msgstr "أوزبكستان"
+
+#~ msgid "Palau"
+#~ msgstr "بالاو"
+
+#~ msgid "Barbados"
+#~ msgstr "بربادوس"
+
+#~ msgid "Brunei Darussalam"
+#~ msgstr "بروناي دار السلام"
+
+#~ msgid "Belgium"
+#~ msgstr "بلجيكا"
+
+#~ msgid "Bulgaria"
+#~ msgstr "بلغاريا"
+
+#~ msgid "Belize"
+#~ msgstr "بليز"
+
+#~ msgid "Bangladesh"
+#~ msgstr "بنغلادش"
+
+#~ msgid "Panama"
+#~ msgstr "بانما"
+
+#~ msgid "Bhutan"
+#~ msgstr "بوتان"
+
+#~ msgid "Botswana"
+#~ msgstr "بوتسوانا"
+
+#~ msgid "Burkina Faso"
+#~ msgstr "بوركينا فاسو"
+
+#~ msgid "Burundi"
+#~ msgstr "بوروندي"
+
+#~ msgid "Poland"
+#~ msgstr "بولندا"
+
+#~ msgid "Bolivia"
+#~ msgstr "بوليفيا"
+
+#~ msgid "Peru"
+#~ msgstr "البيرو"
+
+#~ msgid "Belarus"
+#~ msgstr "روسيا البيضاء"
+
+#~ msgid "Benin"
+#~ msgstr "بنين"
+
+#~ msgid "Thailand"
+#~ msgstr "تايلاند"
+
+#~ msgid "Turkmenistan"
+#~ msgstr "تركمانستان"
+
+#~ msgid "Turkey"
+#~ msgstr "تركيا"
+
+#~ msgid "Trinidad and Tobago"
+#~ msgstr "ترينيداد وتوباغو"
+
+#~ msgid "Chad"
+#~ msgstr "تشاد"
+
+#~ msgid "Tuvalu"
+#~ msgstr "توفالو"
+
+#~ msgid "Tunisia"
+#~ msgstr "تونس"
+
+#~ msgid "Tonga"
+#~ msgstr "تونغا"
+
+#~ msgid "Timor - Leste"
+#~ msgstr "تيمور - ليشتي"
+
+#~ msgid "Jamaica"
+#~ msgstr "جامايكا"
+
+#~ msgid "Netherlands Antilles"
+#~ msgstr "جزر الأنتيل الهولندية"
+
+#~ msgid "Bahamas"
+#~ msgstr "جزر البهاما"
+
+#~ msgid "Comoros"
+#~ msgstr "جزر القمر"
+
+#~ msgid "Solomon Islands"
+#~ msgstr "جزر سليمان"
+
+#~ msgid "Cook Islands"
+#~ msgstr "جزر كوك"
+
+#~ msgid "Marshall Islands"
+#~ msgstr "جزر مارشال"
+
+#~ msgid "Central African Republic"
+#~ msgstr "جمهورية أفريقيا الوسطى"
+
+#~ msgid "Democratic Republic of Congo"
+#~ msgstr "جمهورية الكونغو الديمقراطية"
+
+#~ msgid "United Republic of Tanzania"
+#~ msgstr "جمهورية تنزانيا المتحدة"
+
+#~ msgid "Republic of Korea"
+#~ msgstr "جمهورية كوريا"
+
+#~ msgid "Democratic People's Republic of Korea"
+#~ msgstr "جمهورية كوريا الشعبية الديمقراطية لكوريا"
+
+#~ msgid "Lao PDR"
+#~ msgstr "جمهورية لاو الديمقراطية الشعبية"
+
+#~ msgid "The former Yugoslav Republic of Macedonia"
+#~ msgstr "جمهورية مقدونيا اليوغوسلافية السابقة"
+
+#~ msgid "Republic of Moldova"
+#~ msgstr "جمهورية مولدوفا"
+
+#~ msgid "South Africa"
+#~ msgstr "جنوب أفريقيا"
+
+#~ msgid "Georgia"
+#~ msgstr "جورجيا"
+
+#~ msgid "Djibouti"
+#~ msgstr "جيبوتي"
+
+#~ msgid "United Arab Emirates"
+#~ msgstr "الإمارات العريبة المتحدة"
+
+#~ msgid "Dominica"
+#~ msgstr "الجمهورية الدومينيكيةدومينيكا"
+
+#~ msgid "Rwanda"
+#~ msgstr "أوغندارواندا"
+
+#~ msgid "Romania"
+#~ msgstr "رومانيا"
+
+#~ msgid "Zambia"
+#~ msgstr "زامبيا"
+
+#~ msgid "Zimbabwe"
+#~ msgstr "زيمبابوي"
+
+#~ msgid "Samoa"
+#~ msgstr "ساموا"
+
+#~ msgid "San Marino"
+#~ msgstr "سان مارينو"
+
+#~ msgid "Saint Vincent and the Grenadines"
+#~ msgstr "سانت فنسنت وجزر غرينادين"
+
+#~ msgid "Saint Kitts and Nevis"
+#~ msgstr "سانت كيتس ونيفيس"
+
+#~ msgid "Saint Lucia"
+#~ msgstr "سانت لوسيا"
+
+#~ msgid "Sao Tome and Principe"
+#~ msgstr "ساو تومي وبرينسيبي"
+
+#~ msgid "Sri Lanka"
+#~ msgstr "سري لانكا"
+
+#~ msgid "Slovakia"
+#~ msgstr "سلوفاكيا"
+
+#~ msgid "Slovenia"
+#~ msgstr "سلوفينيا"
+
+#~ msgid "Singapore"
+#~ msgstr "سنغافورة"
+
+#~ msgid "Swaziland"
+#~ msgstr "سوازيلاند"
+
+#~ msgid "Suriname"
+#~ msgstr "الإسم سورينام"
+
+#~ msgid "Switzerland"
+#~ msgstr "سويسرا"
+
+#~ msgid "Sierra Leone"
+#~ msgstr "سيراليون"
+
+#~ msgid "Seychelles"
+#~ msgstr "سيشيل"
+
+#~ msgid "Chile"
+#~ msgstr "شيلي"
+
+#~ msgid "Serbia and Montenegro"
+#~ msgstr "صربيا والجبل الأسود"
+
+#~ msgid "Tajikistan"
+#~ msgstr "أوزبكستانطاجيكستان"
+
+#~ msgid "Oman"
+#~ msgstr "عمان"
+
+#~ msgid "Gabon"
+#~ msgstr "الغابون"
+
+#~ msgid "Gambia"
+#~ msgstr "غامبيا"
+
+#~ msgid "Ghana"
+#~ msgstr "غانا"
+
+#~ msgid "Grenada"
+#~ msgstr "غرينادا"
+
+#~ msgid "Guatemala"
+#~ msgstr "غواتيمالا"
+
+#~ msgid "Guyana"
+#~ msgstr "غيانا"
+
+#~ msgid "Guinea"
+#~ msgstr "غينيا"
+
+#~ msgid "Guinea - Bissau"
+#~ msgstr "غينيا - بيساو"
+
+#~ msgid "Equatorial Guinea"
+#~ msgstr "غينيا الاستوائية"
+
+#~ msgid "Venezuela"
+#~ msgstr "فنزويلا"
+
+#~ msgid "Finland"
+#~ msgstr "فنلندا"
+
+#~ msgid "Fiji"
+#~ msgstr "فيجي"
+
+#~ msgid "Cyprus"
+#~ msgstr "قبرص"
+
+#~ msgid "Qatar"
+#~ msgstr "قطر"
+
+#~ msgid "Kyrgyzstan"
+#~ msgstr "قيرغيزستان"
+
+#~ msgid "Croatia"
+#~ msgstr "كرواتيا"
+
+#~ msgid "Cambodia"
+#~ msgstr "كمبوديا"
+
+#~ msgid "Canada"
+#~ msgstr "كندا"
+
+#~ msgid "Cuba"
+#~ msgstr "كوبا"
+
+#~ msgid "Côte d'Ivoire"
+#~ msgstr "كوت ديفوار"
+
+#~ msgid "Costa Rica"
+#~ msgstr "كوستاريكا"
+
+#~ msgid "Columbia"
+#~ msgstr "كولومبيا"
+
+#~ msgid "Kiribati"
+#~ msgstr "كيريباتي"
+
+#~ msgid "Kenya"
+#~ msgstr "كينيا"
+
+#~ msgid "Latvia"
+#~ msgstr "لاتفيا"
+
+#~ msgid "Lebanon"
+#~ msgstr "لبنان"
+
+#~ msgid "Liechtenstein"
+#~ msgstr "ليختنشتاين"
+
+#~ msgid "Luxembourg"
+#~ msgstr "لوكسمبورغ"
+
+#~ msgid "Liberia"
+#~ msgstr "ليبيريا"
+
+#~ msgid "Lithuania"
+#~ msgstr "ليتوانيا"
+
+#~ msgid "Lesotho"
+#~ msgstr "ليسوتو"
+
+#~ msgid "Malta"
+#~ msgstr "مالطا"
+
+#~ msgid "Mali"
+#~ msgstr "مالي"
+
+#~ msgid "Malaysia"
+#~ msgstr "ماليزيا"
+
+#~ msgid "Madagascar"
+#~ msgstr "مدغشقر"
+
+#~ msgid "Egypt"
+#~ msgstr "مصر"
+
+#~ msgid "Malawi"
+#~ msgstr "مالاوي"
+
+#~ msgid "Maldives"
+#~ msgstr "جزر المالديف"
+
+#~ msgid "Mongolia"
+#~ msgstr "منغوليا"
+
+#~ msgid "Mauritania"
+#~ msgstr "موريتانيا"
+
+#~ msgid "Mauritius"
+#~ msgstr "موريشيوس"
+
+#~ msgid "Mozambique"
+#~ msgstr "موزمبيق"
+
+#~ msgid "Monaco"
+#~ msgstr "موناكو"
+
+#~ msgid "Myanmar"
+#~ msgstr "ميانمار"
+
+#~ msgid "Micronesia"
+#~ msgstr "ميكرونيزيا"
+
+#~ msgid "Namibia"
+#~ msgstr "ناميبيا"
+
+#~ msgid "Nauru"
+#~ msgstr "ناورو"
+
+#~ msgid "Nepal"
+#~ msgstr "نيبال"
+
+#~ msgid "Nigeria"
+#~ msgstr "نيجيريا"
+
+#~ msgid "Nicaragua"
+#~ msgstr "نيكاراغوا"
+
+#~ msgid "New Zealand"
+#~ msgstr "نيوزيلندا"
+
+#~ msgid "Niue Zealand"
+#~ msgstr "نيوي نيوزيلندا"
+
+#~ msgid "Haiti"
+#~ msgstr "هايتي"
+
+#~ msgid "Honduras"
+#~ msgstr "هندوراس"
+
+#~ msgid "Netherlands"
+#~ msgstr "هولندا"
+
+#~ msgid "Number of rooms"
+#~ msgstr "عدد الغرف"
+
+#~ msgid "The right time to call"
+#~ msgstr "الوقت المناسب للإتصال"
+
+#~ msgid "Please write your full name"
+#~ msgstr "الرجاء كتابة اسمك الكامل"
+
+#, fuzzy
+#~ msgid " Antigua and Barbuda"
+#~ msgstr "Antigua and Barbuda"
+
+#, fuzzy
+#~ msgid "Name Topics"
+#~ msgstr "اسم الزوج"
+
+#~ msgid "You are here :"
+#~ msgstr "أنت هنا :"
+
+#~ msgid "Arabic Text slider"
+#~ msgstr "نص السلايد عربي"
+
+# @ total
+#~ msgid "Default text value"
+#~ msgstr "القيمة الإفتراضية"
+
+# @ total
+#~ msgid "Textarea description"
+#~ msgstr "وصف الميتا."
+
+# @ total
+#~ msgid "Email description"
+#~ msgstr "تفاصيل البريد"
+
+# @ total
+#~ msgid "URL description"
+#~ msgstr "رابط التفاصيل"
+
+# @ total
+#~ msgid "oEmbed"
+#~ msgstr "تضمين"
+
+# @ total
+#~ msgid "oEmbed description"
+#~ msgstr "وصف التضمين"
+
+# @ total
+#~ msgid "Posts (Pages)"
+#~ msgstr "المواضيع (الصفحات)"
+
+# @ total
+#~ msgid "WYSIWYG default value"
+#~ msgstr "القيمة الإفتراضية للمحرر المتقدم"
+
+#~ msgid "File Upload"
+#~ msgstr "رفع الملفات"
+
+#~ msgid "File Advanced Upload"
+#~ msgstr "رفع الملفات المتقدم"
+
+#~ msgid "Image Upload"
+#~ msgstr "رفع الصور"
+
+#~ msgid "Thickbox Image Upload"
+#~ msgstr "صندوق رفع الصور"
+
+#~ msgid "Image Advanced Upload"
+#~ msgstr "رفع الصور المتقدم"
+
+# @ total
+#~ msgid "Order saved"
+#~ msgstr "تم الحفظ"
+
+#~ msgid "Save"
+#~ msgstr "حفظ"
+
+#~ msgid "A leading business membership ID"
+#~ msgstr "رقم عضوية ريادي الأعمال"
+
+#~ msgid "First Line Arabic"
+#~ msgstr "السطر الأول - عربي"
+
+#~ msgid "Third Line Arabic"
+#~ msgstr "السطر الثالث - عربي"
+
+#~ msgid "Place a bannr"
+#~ msgstr "مكان البنر"
+
+#~ msgid "Side of the site - internal page"
+#~ msgstr "جانب الموقع - الصفحات الداخلية"
+
+#~ msgid "Link a bannr"
+#~ msgstr "رابط البنر"
+
+#~ msgid "external"
+#~ msgstr "خارجي"
+
+#~ msgid "internal"
+#~ msgstr "عادي"
+
+#~ msgid "Year"
+#~ msgstr "السنة"
+
+#~ msgid "Show Album"
+#~ msgstr "عرض الألبوم"
+
+#~ msgid "Entrepreneurs"
+#~ msgstr "رواد الأعمال"
+
+#~ msgid "All cities"
+#~ msgstr "جميع المدن"
+
+#~ msgid "Search Entrepreneurs"
+#~ msgstr "بحث في رواد الأعمال"
+
+#~ msgid "Interest"
+#~ msgstr "المجال"
+
+#~ msgid "Watch the video"
+#~ msgstr "مشاهدة الفيديو"
+
+#~ msgid "Endeavor KSA"
+#~ msgstr "انديفور السعودية"
+
+#~ msgid "Adv"
+#~ msgstr "البنرات الإعلانية"
+
+# @ total
+#~ msgid "Add new Adv"
+#~ msgstr "اضف بنر  جديد"
+
+#~ msgid "search in Adv"
+#~ msgstr "بحث في البنرات"
+
+#~ msgid "All Entrepreneurs"
+#~ msgstr "جميع الرواد الأعمال"
+
+#~ msgid "View Entrepreneur"
+#~ msgstr "عرض"
+
+#~ msgid "Add new Entrepreneur"
+#~ msgstr "اضافة جديد"
+
+#~ msgid "Edit Entrepreneur"
+#~ msgstr "تعديل"
+
+#~ msgid "seaerch in Entrepreneurs"
+#~ msgstr "بحث"
+
+# @ total
+#~ msgid "Add new Interest"
+#~ msgstr "اضف مجال جديد"
+
+#~ msgid "search in Interest"
+#~ msgstr "بحث في المجال"
+
+#~ msgid "Slide entrepreneurs"
+#~ msgstr "سلايدر الياديون"
+
+#~ msgid "Endeavor society"
+#~ msgstr "مجتمع انديفور"
+
+#~ msgid "I want to join"
+#~ msgstr "أرغب بالإنضمام"
+
+#~ msgid "Back to page entrepreneurs"
+#~ msgstr "عودة لصفحة رواد الأعمال"
+
+#~ msgid "About the company"
+#~ msgstr "عن الشركة"
+
+#~ msgid "Settings banners on the home page"
+#~ msgstr "إعدادات البنرات في الصفحة الرئيسية"
+
+#~ msgid "save"
+#~ msgstr "حفظ"
+
+# @ total
+#, fuzzy
+#~ msgid "ُEdit"
+#~ msgstr "تعديل"

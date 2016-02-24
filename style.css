@@ -1,0 +1,42 @@
+/*
+Theme Name: mytheme
+Theme URI: #
+Author: Ahmed Khalid
+Author URI: http://www.ahmedkhalid.com/
+Description: #
+Version: 1.0
+License:
+License URI:
+Tags:
+Text Domain: mytheme
+
+*/
+
+
+.aligncenter{display:block; margin:0 auto !important}
+.alignright{float:right; margin:10px 0 10px 10px}
+.alignleft{float:left; margin:10px 10px 10px 0}
+.floatleft{float:left}
+.floatright{float:right}
+.textcenter{text-align:center}
+.textright{text-align:right}
+.textleft{text-align:left}
+
+.wp-caption{border:1px solid #ddd; text-align:center; background-color:#f3f3f3; padding-top:4px; margin:10px; }
+.wp-caption img{margin:0; padding:0; border:0 none}
+.wp-caption p.wp-caption-text{font-size:11px; line-height:17px; padding:0 4px 5px; margin:0}
+
+#calendar_wrap{font-size: 11px; border:1px solid #E3E3E3; -moz-box-shadow:0px 0px 4px #EEE;  -webkit-box-shadow:0px 0px 4px #EEE;   box-shadow:0px 0px 4px #EEE}
+#wp-calendar th{font-style:normal; text-transform:capitalize}
+
+#wp-calendar thead th{font-style:normal; text-transform:capitalize; text-align:center}
+
+#wp-calendar td{color:#CCC; height: 15px; line-height: 15px; text-align:center}
+#wp-calendar a{display: block;color:#09F}
+#wp-calendar td:hover{color:#333}
+#wp-calendar #today{display: block;background:#EEE; color:#333}
+#wp-calendar{empty-cells:show; margin:0; width:100%}
+
+#wp-calendar caption{border-bottom: 1px solid #E3E3E3; padding:5px 10px; font-size:14px; color:#666; font-style:italic; text-align:center}
+
+.tagcloud a{float: left; display: block; padding: 5px 10px; margin-right: 7px; margin-bottom: 7px; border:1px solid #E3E3E3; -moz-box-shadow:0px 0px 4px #EEE;   -webkit-box-shadow:0px 0px 4px #EEE;   box-shadow:0px 0px 4px #EEE}
